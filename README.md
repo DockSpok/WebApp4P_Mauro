@@ -1,7 +1,5 @@
 # WebApp4P_Mauro
-TesteApi4P
 
-# WebApp4P
 Solução de uma API desenvolvida em C# .NET 
 
 Para executar a solução faça um clone desse repositório em sua máquina local.
